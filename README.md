@@ -14,3 +14,6 @@ Run python3 wakeonremote.py, and then double-click the host to wake up in the li
 ![Image text](https://github.com/NHPT/Wake-On-Remote/blob/master/example/example.png)  
 Run python3 wakeonremote.py, fill in the domain name / host, MAC and port, and then click wake-up, as shown in the figure:  
 ![Image text](https://github.com/NHPT/Wake-On-Remote/blob/master/example/example2.png)
+
+# OS Config  
+https://blog.csdn.net/qq_32261191/article/details/102885664
