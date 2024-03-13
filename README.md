@@ -30,8 +30,8 @@ Using `WakeOnRemote_console.py`:
 ![Image text](https://github.com/NHPT/Wake-On-Remote/blob/master/example/waked.png)  
 
 ## Web端网页唤醒[Web Remote Wake]  
-运行`python3 wake.py`即可启动web服务，默认监听在本地80端口，如果需要部署在公网，修改代码监听地址即可。可以使用PC、Android或iOS的浏览器访问，实现简易的跨平台使用。  
-Run 'python3 wake. py' to start the web service. By default, it listens to port 80 locally. If it needs to be deployed on the public network, simply modify the code listening address. It can be accessed using PC, Android, or iOS browsers for easy cross platform use.  
+运行`python3 app.py`即可启动web服务，默认监听在本地80端口，如果需要部署在公网，修改代码监听地址即可。可以使用PC、Android或iOS的浏览器访问，实现简易的跨平台使用。  
+Run 'python3 app. py' to start the web service. By default, it listens to port 80 locally. If it needs to be deployed on the public network, simply modify the code listening address. It can be accessed using PC, Android, or iOS browsers for easy cross platform use.  
 ![Image text](https://github.com/NHPT/Wake-On-Remote/blob/master/example/wap.png)
 ![Image text](https://github.com/NHPT/Wake-On-Remote/blob/master/example/pc.png)  
 
