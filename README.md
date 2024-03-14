@@ -2,6 +2,17 @@
 基于Python3开发的远程唤醒计算机程序，支持PC客户端、命令行和网页。网页端主要为了移动端使用。  
 A remote wake-up computer program developed based on Python3, supporting PC clients, command lines, and web pages. The web end is mainly designed for mobile app use.
 
+```
+├── WakeOnRemote.py             GUI程序
+├── WakeOnRemote_console.py     命令行程序
+├── info                        配置文件
+├── web
+│   ├── assets                  静态资源
+│   └── app.py                  web服务
+│   └── index.html              首页
+```
+web服务需要Python3.7及以上版本
+
 # 配置文件[Config file]
 您可以编辑`info`文件以导入要唤醒的主机信息。它需要域名/IP地址、MAC地址和端口。格式如下：  
 You can edit the info file to import the host information to wake up. It needs the domain name / IP address, MAC address and port. The format is as follows:  
